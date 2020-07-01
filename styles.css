@@ -59,23 +59,32 @@ button:hover {
 
 
 @media screen and (max-width: 678px){
+    form{
+        margin: 5% 10%;
+    }
     form h1{
         font-size: 20px;
+        font-weight: bold;
     }
     form input{
         width: 100%;
-        padding: 12px 30px;
+        padding: 20px 30px;
         font-size: 12px;
     }
     form button{
-        padding: 12px 20px;
         font-size: 12px;
         margin-top: 5px;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
         
     }
     #classification{
         margin-top: 10px;
         font-size: 12px;
+    }
+    body{
+        margin-top: 50%;
     }
 
 }
