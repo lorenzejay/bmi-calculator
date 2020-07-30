@@ -71,7 +71,7 @@ button:hover {
         padding: 20px 30px;
         font-size: 12px;
     }
-    form button{
+    button{
         font-size: 12px;
         margin-top: 5px;
         text-align: center;
@@ -82,6 +82,7 @@ button:hover {
     #classification{
         margin-top: 10px;
         font-size: 12px;
+        
     }
     body{
         margin-top: 20%;
